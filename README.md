@@ -27,11 +27,11 @@ For more information about me (and a whole lot of mysteries), check out my [port
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="Selenium" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
+<img align="left" alt="Katalon" width="26px" src="https://kms-technology.com/wp-content/uploads/2016/09/katalon1x-press.png" />
+<img align="left" alt="RobotFrameWork" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
@@ -40,7 +40,14 @@ For more information about me (and a whole lot of mysteries), check out my [port
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
-<img align="left" alt="firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+<img align="left" alt="GCP" width="26px" src="https://w7.pngwing.com/pngs/999/984/png-transparent-google-cloud-platform-cloud-computing-microsoft-azure-platform-as-a-service-cloud-computing-text-logo-cloud-computing-thumbnail.png" />
+<img align="left" alt="DevOps" width="26px" src="https://contentstatic.techgig.com/photo/85273367/career-in-devops-skills-to-watch-out-for.jpg?104490" />
+<img align="left" alt="Postman" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKDcWmECOin8PwY9aO075fbkInpN-SE5bNQEffI7oSYvNnQkIaKPKVq8a3NnGnbtyyW5Q&usqp=CAU" />
+<img align="left" alt="postman-newman" width="26px" src="https://nareshnavinash.github.io/Postman-Newman-Framework/library/Postman-Newman.png" />
 <img align="left" alt="cypress.io" width="26px" src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4" />
+<img align="left" alt="rest-assured" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSeo5dd-9fIp2RtjaULFfTRqfq3BR3L7klUsNil5-Zzx8IUjB_NGxevpMoIr0aHL0O2A&usqp=CAU" />
+<img align="left" alt="j-meter" width="26px" src="https://huddle.eurostarsoftwaretesting.com/wp-content/uploads/2018/06/jmeter-tutorial.png" />
+<img align="left" alt="soap-ui" width="26px" src="https://www.nicepng.com/png/detail/611-6119100_soapui-soapui-logo-png.png" />
+<img align="left" alt="siebel" width="26px" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/123530282/original/5c6017c1e7fbf5386554b0bf250305e274e950b0/do-all-siebel-configuration-and-development.png" />
 <br />
 <br />
