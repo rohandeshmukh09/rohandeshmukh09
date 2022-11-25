@@ -12,14 +12,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi Devs👋 ![Total Views](https://views.whatilearened.today/views/github/rohandeshmukh09/rohandeshmukh09.svg)
-I am a professional DevOps and Automation Test Engineer. I enjoy working on latest techs and love solving problems in the field of Test Automation Front End Back End and Implement New automation Framework.
+I am a professional DevOps and Automation Test Engineer. I enjoy working on latest techs and love solving problems in the field of Test Automation Front End /Back End and Implement New Automation Framework.
 
-For more information about me (and a whole lot of mysteries), check out my [portfolio](https://rohandeshmukh09.github.io/simplewebsite/)
+For more information about me (and a whole lot of mysteries), check out my [portfolio](https://github.com/rohandeshmukh09)
 
-- 🔭 I’m currently enjoying the field of Front End Web UI Automation, Microservices REST API Automation and DevOps Implementation for clients.
+- 🔭 I’m currently enjoying the field of Front End Web UI Automation, Microservices, REST API Automation and DevOps Implementation for clients.
 - 👯 I’m looking to collaborate on projects where I can use my skills to solve problems and implement latest Automation Framework solution and work on DevOps.
 - 💬 Hit me up to discuss about Software Test Automation and DevOps Engineering.
-- 📫 How to reach me: visit my [website](https://rohandeshmukh09.github.io/simplewebsite/), I am available there 24 X 7.
+- 📫 How to reach me: visit my [website](https://github.com/rohandeshmukh09), I am available there 24 X 7.
 
 ### Languages and Tools:
 
@@ -41,5 +41,6 @@ For more information about me (and a whole lot of mysteries), check out my [port
 <img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <img align="left" alt="firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+<img align="left" alt="cypress.io" width="26px" src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4" />
 <br />
 <br />
