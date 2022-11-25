@@ -32,7 +32,7 @@ For more information about me , check out my [portfolio](https://github.com/roha
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Katalon" width="26px" src="https://www.schoolofit.co.za/wp-content/uploads/2020/05/Katalon-Studio-Training-Courses-806x393.jpg" />
 <img align="left" alt="RobotFrameWork" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+<img align="left" alt="GraphQL" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKDcWmECOin8PwY9aO075fbkInpN-SE5bNQEffI7oSYvNnQkIaKPKVq8a3NnGnbtyyW5Q&usqp=CAU" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
