@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hej Devs👋 ![Total Views](https://views.whatilearened.today/views/github/rohandeshmukh09/rohandeshmukh09.svg)
-I am a professional DevOps & Test Automation Engineer. I enjoy working on latest techs and love solving problems in the field of Test Automation Front End /Back End and Implement New Automation Framework.
+I am a professional DevOps & Test Automation Engineer. I enjoy working on latest techs and love to work and solve problems in the field of Test Automation- Front End /Back End and work on Implementing New Automation Framework.
 
 For more information about me , check out my [portfolio](https://github.com/rohandeshmukh09)
 
