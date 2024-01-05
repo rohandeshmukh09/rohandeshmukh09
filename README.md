@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hej👋 ![Total Views](https://views.whatilearened.today/views/github/rohandeshmukh09/rohandeshmukh09.svg)
-I am a professional DevOps & Test Automation Engineer. I enjoy working on latest techs and love to work and solve problems in the field of Test Automation- Front End /Back End and work on Implementing New Automation Framework.
+I am a professional Test Automation Engineer & DevOps Practioner . I work on latest techs and love to work and solve problems in the field of Test Automation- Front End -Back End and work on Implementing New Automation Framework.
 
-For more information about me , check out my [portfolio](https://github.com/rohandeshmukh09)
+For more information about me , check out my [github](https://github.com/rohandeshmukh09)
 
 - 🔭 I’m currently enjoying the field of Front End Web UI Automation, Microservices, REST API Automation and DevOps Implementation for clients.
 - 👯 I’m looking to collaborate on projects where I can use my skills to solve problems and implement latest Automation Framework solution and work on DevOps.
